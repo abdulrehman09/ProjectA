@@ -1,0 +1,12 @@
+C:\Users\maani\source\repos\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\maani\source\repos\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\maani\source\repos\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\maani\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+C:\Users\maani\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.Form1.resources
+C:\Users\maani\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\maani\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+C:\Users\maani\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\maani\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\maani\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\maani\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.Adviser.resources
+C:\Users\maani\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.AddProject.resources
