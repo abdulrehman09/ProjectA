@@ -8,7 +8,7 @@ namespace MiniProject
 {
     class DBConnection
     {
-        public static string Conn = "Data Source=desktop-m3j9s2q\\sqlexpress;Initial Catalog=ProjectA;Integrated Security=True";
+        public static string Conn = "Data Source=desktop-m3j9s2q\\sqlexpress;Initial Catalog=ProjectA;Integrated Security=True; MultipleActiveResultSets=true;";
 
     }
 }

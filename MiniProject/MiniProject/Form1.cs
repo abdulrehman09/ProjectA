@@ -33,6 +33,18 @@ namespace MiniProject
                 "',1)";
             SqlCommand sqlCommand = new SqlCommand(q, s);
             sqlCommand.ExecuteNonQuery();
+            q = "select @@identity as Id from Person  ";
+            sqlCommand = new SqlCommand(q, s);
+            SqlDataReader r = sqlCommand.ExecuteReader();
+            string id = "0";
+            if (r.Read())
+            {
+                id = (r["Id"].ToString());
+            }
+            q = "Insert into Student (Id, RegistrationNo) " +
+                "Values ("+id+",'" + textBox6.Text+ "')";
+            SqlCommand Command = new SqlCommand(q, s);
+            Command.ExecuteNonQuery();
 
         }
 
@@ -48,6 +60,14 @@ namespace MiniProject
             AddProject a = new AddProject();
             a.Show();
             this.Hide();
+        }
+
+        private void linkLabel3_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            CreateGroup a = new CreateGroup();
+            a.Show();
+            this.Hide();
+
         }
     }
 }

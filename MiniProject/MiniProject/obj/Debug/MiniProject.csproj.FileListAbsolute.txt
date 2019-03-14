@@ -10,3 +10,16 @@ C:\Users\maani\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.exe
 C:\Users\maani\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
 C:\Users\maani\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.Adviser.resources
 C:\Users\maani\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.AddProject.resources
+D:\PojectA\ProjectA\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+D:\PojectA\ProjectA\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+D:\PojectA\ProjectA\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+D:\PojectA\ProjectA\MiniProject\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+D:\PojectA\ProjectA\MiniProject\MiniProject\obj\Debug\MiniProject.AddProject.resources
+D:\PojectA\ProjectA\MiniProject\MiniProject\obj\Debug\MiniProject.Adviser.resources
+D:\PojectA\ProjectA\MiniProject\MiniProject\obj\Debug\MiniProject.CreateGroup.resources
+D:\PojectA\ProjectA\MiniProject\MiniProject\obj\Debug\MiniProject.Form1.resources
+D:\PojectA\ProjectA\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+D:\PojectA\ProjectA\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+D:\PojectA\ProjectA\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+D:\PojectA\ProjectA\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+D:\PojectA\ProjectA\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
